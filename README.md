@@ -57,13 +57,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </div>
 
-###
+Welcome to my GitHub profile! Here is a fun snake animation eating my contributions:
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/1102-Partovi-Kiana/1102-Partovi-Kian/output/snake.svg" alt="Snake animation" />
-
-###
+![GitHub Snake Animation](https://1102-Partovi-Kiana.github.io/1102-Partovi-Kiana/dist/snake.svg)
 
 
 
