@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 
 Welcome to my GitHub profile! Here is a fun snake animation eating my contributions:
 
-![GitHub Snake Animation](https://1102-Partovi-Kiana.github.io/1102-Partovi-Kiana/dist/snake.svg)
+![GitHub Snake Animation](https://1102-Partovi-Kiana.github.io/1102-Partovi-Kiana/snake.svg)
 
 
 
