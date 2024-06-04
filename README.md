@@ -8,7 +8,7 @@
 </div>
 
 <div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="150" alt="fun gif" />
+  <img src="https://i.imgflip.com/65efzo.gif" height="150" width="200" alt="fun gif" />
 </div>
 
 <br>
