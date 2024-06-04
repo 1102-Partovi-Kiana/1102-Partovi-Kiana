@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome 💫
 
 <!--
 **1102-Partovi-Kiana/1102-Partovi-Kiana** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is Kiana and I'm an upcoming Software Engineer, from Las Vegas</h2>
+<h2 align="left">Hi 👋! My name is Kiana and I'm an upcoming Software Engineer </h2>
 
 ###
 
@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Tech Stack</h2>
+<h2 align="left">👩‍💻 Tech Stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ###
 
-<h2 align="left">Socials</h2>
+<h2 align="left">💻 Socials</h2>
 <div align="left">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
