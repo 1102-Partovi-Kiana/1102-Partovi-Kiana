@@ -9,6 +9,7 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif" alt="fun gif" />
 
+<br>
 <h2 align="left">👩‍💻 Tech Stack</h2>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
@@ -26,6 +27,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo" />
 </div>
 
+<br>
 <h2 align="left">💻 Socials</h2>
 <div align="left">
   <a href="https://discord.com"><img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo" /></a>
