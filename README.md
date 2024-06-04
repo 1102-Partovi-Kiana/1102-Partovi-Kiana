@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="left">Hi 👋! My name is Kiana and I'm an upcoming Software Engineer </h2>
+<h2 align="left">Hi 👋!! My name is Kiana and I'm an upcoming Software Engineer! </h2>
 
 ###
 
