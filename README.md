@@ -3,12 +3,12 @@
 <h2 align="left">Hi 👋!! My name is Kiana and I'm an upcoming Software Engineer! </h2>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=1102-Partovi-Kiana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" width="400" height="200" alt="stats graph" style="margin: 10px;"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1102-Partovi-Kiana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" width="400" height="200" alt="languages graph" style="margin: 10px;"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=1102-Partovi-Kiana&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=1102-Partovi-Kiana&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
 </div>
 
 <div align="center">
-  <img src="https://i.imgflip.com/65efzo.gif" height="200" width="200" alt="fun gif" style="margin: 10px;"/>
+  <img src="https://i.imgflip.com/65efzo.gif" height="150" width="200" alt="fun gif" />
 </div>
 
 <br>
@@ -42,8 +42,6 @@
 Here is a fun snake animation eating my contributions:
 
 ![GitHub Snake Animation](https://1102-Partovi-Kiana.github.io/1102-Partovi-Kiana/snake.svg)
-
-
 
 
 
