@@ -53,6 +53,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="40" alt="PyTorch logo" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="40" alt="TensorFlow logo" />
 
+  ### Tools
+[![Tools](https://skillicons.dev/icons?i=kafka,aws,docker,postgres,mysql,nextjs,flask,sklearn,grafana,vscode,pytorch,tensorflow&theme=light)](https://skillicons.dev)
+
+
 </div>
 
 <br>
