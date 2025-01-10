@@ -46,7 +46,7 @@
   [![Tools](https://skillicons.dev/icons?i=kafka,aws,docker,postgres,mysql,nextjs,flask,sklearn,grafana,vscode,pytorch,tensorflow&theme=light)](https://skillicons.dev)
 
   ### Tools
-[![Tools](https://skillicons.dev/icons?i=jupyter,pandas,conda,leaflet,bootstrap,matplotlib,numpy)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=jupyter)](https://skillicons.dev)
 
 
 </div>
