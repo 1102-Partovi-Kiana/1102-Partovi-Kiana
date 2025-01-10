@@ -17,9 +17,9 @@
 <h2 align="left">👩‍💻 Work Experience</h2>
 <div align="left">
   <ul>
-    <li> Summer 2024: Software Engineer Intern @ Melody </li>
-    <li> Fall 2024: Software Engineer Intern @ NASA </li>
-    <li> Spring 2024: Software Engineer Intern @ NASA </li>
+    <li> <strong>Summer 2024</strong>: Software Engineer Intern @ Melody </li>
+    <li> <strong>Fall 2024</strong>: Software Engineer Intern @ NASA </li>
+    <li> <strong>Spring 2024</strong>: Software Engineer Intern @ NASA </li>
   </ul>
 </div>
 
