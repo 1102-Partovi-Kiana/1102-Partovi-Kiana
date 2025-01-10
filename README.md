@@ -43,10 +43,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" height="40" alt="R logo" />
 
   ### Tools
-  [![Tools](https://skillicons.dev/icons?i=kafka,aws,docker,postgres,mysql,nextjs,flask,sklearn,grafana,vscode,pytorch,tensorflow&theme=light)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=aws,docker,postgres,mysql,nextjs,flask,sklearn,vscode,pytorch,tensorflow&theme=light)](https://skillicons.dev)
+  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="Google Colab logo" />
+<img src="https://raw.githubusercontent.com/storybookjs/brand/master/logo/icon/storybook-icon-color.png" height="40" alt="Storybook logo" />
 
-  ### Tools
-[![Tools](https://skillicons.dev/icons?i=jupyter)](https://skillicons.dev)
 
 
 </div>
