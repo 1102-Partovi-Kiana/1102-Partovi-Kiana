@@ -44,7 +44,7 @@
   <h3>Tools </h3>
 
   ### Tools
-  [![Tools](https://skillicons.dev/icons?i=aws,docker,postgres,nextjs,flask,sklearn,vscode,pytorch,jupyter,pandas,conda,leaflet,bootstrap,matplotlib,numpy,tensorflow&theme=light)](https://skillicons.dev)
+  [![Tools](https://skillicons.dev/icons?i=kafka,aws,docker,postgres,mysql,nextjs,flask,sklearn,grafana,vscode,pytorch,tensorflow&theme=light)](https://skillicons.dev)
 
 
 </div>
