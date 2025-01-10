@@ -44,8 +44,6 @@
 
   ### Tools
   [![Tools](https://skillicons.dev/icons?i=aws,docker,postgres,mysql,nextjs,flask,sklearn,vscode,pytorch,tensorflow&theme=light)](https://skillicons.dev)
-  <img src="https://colab.research.google.com/img/colab_favicon_256px.png" height="40" alt="Google Colab logo" />
-<img src="https://raw.githubusercontent.com/storybookjs/brand/master/logo/icon/storybook-icon-color.png" height="40" alt="Storybook logo" />
 
 
 
