@@ -19,8 +19,10 @@
 <div align="left">
   <ul>
     <li> <strong>Summer 2024</strong>: Software Engineer Intern @ Melody </li>
+    <li> <strong>Fall 2024 - Present</strong>: Computer Science Tutor </li>
     <li> <strong>Fall 2024</strong>: Software Engineer Intern @ NASA </li>
-    <li> <strong>Spring 2024</strong>: Software Engineer Intern @ NASA </li>
+    <li> <strong>Spring 2025</strong>: Software Engineer Intern @ NASA </li>
+    <li> <strong>Summer 2025</strong>: Data Science Intern @ NASA </li>
   </ul>
 </div>
 
