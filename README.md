@@ -29,7 +29,6 @@
 <br>
 <h2 align="left">💻 Tech Stack</h2>
 
-<h3>Languages</h3>
 ### Languages
 [![Languages](https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,prolog,fortran,cpp,c,nodejs,nextjs,r&theme=light)](https://skillicons.dev)
 
