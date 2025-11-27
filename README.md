@@ -30,7 +30,7 @@
 <h2 align="left">💻 Tech Stack</h2>
 
 ### Languages
-[![Languages](https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,prolog,fortran,cpp,c,nodejs,nextjs,r&theme=light)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=js,ts,react,html,css,python,cs,fortran,cpp,c,nodejs,nextjs,r&theme=light)](https://skillicons.dev)
 
 
 <!-- <p>
