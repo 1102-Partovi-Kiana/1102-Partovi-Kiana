@@ -23,7 +23,7 @@
     <li> <strong>Fall 2024</strong>: Software Engineer Intern @ NASA </li>
     <li> <strong>Spring 2025</strong>: Software Engineer Intern @ NASA </li>
     <li> <strong>Summer 2025</strong>: Software Engineer Intern @ NASA </li>
-    <li> <strong>Summer 2025</strong>: Software Engineer Intern @ Gusto </li>
+    <li> <strong>Summer 2026</strong>: Software Engineer Intern @ Gusto </li>
   </ul>
 </div>
 
